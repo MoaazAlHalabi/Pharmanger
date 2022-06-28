@@ -1,0 +1,2 @@
+# Pharmanger
+Pharmacy management app
